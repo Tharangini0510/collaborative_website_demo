@@ -27,3 +27,13 @@ body {
   button:hover {
     background-color: #45a049;
   }
+  
+footer {
+    margin-top: 40px;
+    font-size: 14px;
+    color: #777;
+}
+
+button:active {
+    transform: scale(0.95);
+}
